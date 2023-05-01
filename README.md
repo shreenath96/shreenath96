@@ -1,21 +1,17 @@
 ## EDUCATION
-* **George Mason University, Fairfax, Virginia -   Master of Science in Computer Science** 
-* **Vellore Institute of Technology, Vellore, Tamil Nadu, India -   Bachelor of Technology in Electronics and Communications Engineering  **
+* **George Mason University - Master of Science in Computer Science** 
+* **Vellore Institute of Technology - Bachelor of Technology in Electronics and Communications Engineering** 
+
 
 ## PROFESSIONAL EXPERIENCE
-**George Mason University — Fairfax, Virginia**  
-*Information Technology Service Department* — *Present Assistant programmer*  
-****
-
-**TATA Consultancy Services — Tamil Nadu, India**  
-*Computer Consultancy Department* — *July 2018 – August 2019*  
-**Assistant Systems Engineer / Linux Administrator**
+* **George Mason University — Assistant programmer**  
+* **TATA Consultancy Services — Assistant Systems Engineer / Linux Administrator**  
 
 ## SKILLS
-* Programming: Python, Java, C, C++, HTML, CSS, JavaScript
-* Database: MS SQL, MySQL, PostgreSQL
-* Tools: MS Office, Tableau
-* Operating Systems: Windows, Linux, Macintosh
+* **Programming:** Python, Java, C, C++, HTML, CSS, JavaScript
+* **Database:** MS SQL, MySQL, PostgreSQL
+* **Tools:** MS Office, Tableau
+* **Operating Systems:** Windows, Linux, Macintosh
 * Good understanding of Computer Networking (TCP/IP and various protocols)
 
 ## CERTIFICATIONS
