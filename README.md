@@ -1,14 +1,11 @@
 ## EDUCATION
-* **George Mason University, Fairfax, Virginia** — *GPA: 3.67 / 4.0*  
-  Master of Science in Computer Science  
-
-* **Vellore Institute of Technology, Vellore, Tamil Nadu, India** — *GPA: 7.8 / 10.0*  
-  Bachelor of Technology in Electronics and Communications Engineering  
+* **George Mason University, Fairfax, Virginia -   Master of Science in Computer Science** 
+* **Vellore Institute of Technology, Vellore, Tamil Nadu, India -   Bachelor of Technology in Electronics and Communications Engineering  **
 
 ## PROFESSIONAL EXPERIENCE
 **George Mason University — Fairfax, Virginia**  
-*Information Technology Service Department* — *June 2022 – Present*  
-**Assistant programmer**
+*Information Technology Service Department* — *Present Assistant programmer*  
+****
 
 **TATA Consultancy Services — Tamil Nadu, India**  
 *Computer Consultancy Department* — *July 2018 – August 2019*  
