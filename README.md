@@ -1,6 +1,6 @@
 ## EDUCATION
-* **Master of Science in Computer Science - George Mason University ** 
-* **Bachelor of Technology in Electronics and Communications Engineering - Vellore Institute of Technology ** 
+* <b>Master of Science in Computer Science - George Mason University </b>
+* <b>Bachelor of Technology in Electronics and Communications Engineering - Vellore Institute of Technology </b>
 
 
 ## PROFESSIONAL EXPERIENCE
