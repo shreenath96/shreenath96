@@ -4,11 +4,13 @@
 
 
 ## PROFESSIONAL EXPERIENCE
+* **Marriott International — Software developer / Quality Assurance Engineer**  
 * **George Mason University — Assistant programmer**  
 * **TATA Consultancy Services — Assistant Systems Engineer / Linux Administrator**  
 
 ## SKILLS
 * **Programming:** Python, Java, C, C++, HTML, CSS, JavaScript
+* **Libraries & framework:** Springboot, Maven, Hibernate, Flask, Sci-kit, nltk, pandas, PyTorch, NumPy
 * **Database:** MS SQL, MySQL, PostgreSQL
 * **Tools:** MS Office, Tableau
 * **Operating Systems:** Windows, Linux, Macintosh
